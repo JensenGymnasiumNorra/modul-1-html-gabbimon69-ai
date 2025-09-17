@@ -1,0 +1,13 @@
+li{
+    font-size: 35px;
+    list-style-position: inside;
+  }
+body{
+    background-color: lightskyblue;
+}
+h3{font-size: 44px;}
+h4{font-size: 44px;}
+h5{font-size: 44px;}
+h6{font-size: 44px;}
+p{font-size: 25px;}
+a{font-size: 44px;}
